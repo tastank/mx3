@@ -1,0 +1,56 @@
+{
+
+    "name": "Mazda MX-3 (K8)",
+    "parent": "mazda_mx3",
+    "brand": "Mazda",
+    "description": "A small hatchback from the early 1990s.</br>",
+    "tags": ["fwd", "japan"],  
+    "class": "street",
+
+    "country": "Japan",
+    "year": 1993,
+    "author": "Tyler Stank",
+    "version": "0.5",
+
+    "specs":
+    {
+        "bhp": "111 bhp",
+        "torque": "141 Nm",
+        "weight": "950kg",
+        "topspeed": "Slow",
+        "acceleration": "Slow",
+        "pwratio": "11.48kg/cv"
+    },
+    "torqueCurve":[
+      [1000,80],
+      [1500,92],
+      [2000,122],
+      [2500,125],
+      [3000,129],
+      [3500,132],
+      [4000,130],
+      [4500,138],
+      [5000,141],
+      [5500,137],
+      [6000,132],
+      [6500,115],
+      [7000,101],
+      [7500,0]
+    ],
+    "powerCurve":[
+      [1000,11],
+      [1500,19],
+      [2000,34],
+      [2500,44],
+      [3000,54],
+      [3500,65],
+      [4000,73],
+      [4500,87],
+      [5000,99],
+      [5500,106],
+      [6000,111],
+      [6500,105],
+      [7000,100],
+      [7500,0]
+    ]
+}
