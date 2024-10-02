@@ -9,16 +9,16 @@
     "country": "Japan",
     "year": 1993,
     "author": "Tyler Stank",
-    "version": "0.0a",
+    "version": "0.5",
 
     "specs":
     {
         "bhp": "88 bhp",
-        "torque": "133Nm",
-        "weight": "1010kg",
+        "torque": "133 Nm",
+        "weight": "945 kg",
         "topspeed": "Slow",
         "acceleration": "Slow",
-        "pwratio": "11.48kg/cv"
+        "pwratio": "11.48 kg/cv"
     },
     "torqueCurve":[
       [0,56],
