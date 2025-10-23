@@ -4,7 +4,6 @@ set -e
 ASSETTO_CARS_DIR='/b/Program Files/SteamLibrary/steamapps/common/assettocorsa/content/cars/'
 
 BASE_BRANCH='master'
-BRANCHES=('master' 'k8')
 
 for BRANCH in ${BRANCHES[@]}; do
     git checkout "$BRANCH"
