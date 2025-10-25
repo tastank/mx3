@@ -1,3 +1,5 @@
 exclude-from-release.txt
 release/
 release/*
+release.sh
+name.txt
